@@ -1,4 +1,4 @@
 int USCLN(int a, int b)
 {
-	40
+	cout << "USCLN la:";
 }
